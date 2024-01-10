@@ -30,11 +30,5 @@
         "psr-4": {
             "TheNetworg\\OAuth2\\Client\\": "src/"
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/astiga/oauth2-client"
-        }
-    ]
+    }
 }
